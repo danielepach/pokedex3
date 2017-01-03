@@ -12,6 +12,7 @@
 		402FDB631E1BECF60064D8CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 402FDB611E1BECF60064D8CB /* Main.storyboard */; };
 		402FDB651E1BECF60064D8CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 402FDB641E1BECF60064D8CB /* Assets.xcassets */; };
 		402FDB681E1BECF60064D8CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 402FDB661E1BECF60064D8CB /* LaunchScreen.storyboard */; };
+		40B92E521E1BF0DB000BE870 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 40B92E511E1BF0DB000BE870 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		402FDB641E1BECF60064D8CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		402FDB671E1BECF60064D8CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		402FDB691E1BECF60064D8CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		40B92E511E1BF0DB000BE870 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				402FDB5F1E1BECF60064D8CB /* ViewController.swift */,
 				402FDB611E1BECF60064D8CB /* Main.storyboard */,
 				402FDB641E1BECF60064D8CB /* Assets.xcassets */,
+				40B92E511E1BF0DB000BE870 /* pokemon.csv */,
 				402FDB661E1BECF60064D8CB /* LaunchScreen.storyboard */,
 				402FDB691E1BECF60064D8CB /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				402FDB681E1BECF60064D8CB /* LaunchScreen.storyboard in Resources */,
 				402FDB651E1BECF60064D8CB /* Assets.xcassets in Resources */,
+				40B92E521E1BF0DB000BE870 /* pokemon.csv in Resources */,
 				402FDB631E1BECF60064D8CB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -300,6 +304,7 @@
 				402FDB6E1E1BECF60064D8CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
